@@ -1,0 +1,34 @@
+{
+  "name": "rextract.js",
+  "description": "Rextract JS is an image Region Extraction library. HTML5 based image processing library which helps automatically detect regions of the image to extract.",
+  "version": "0.0.2",
+  "homepage": "http://github.com/linuxenko/rextract.js",
+  "license": "MIT",
+  "repository": "https://github.com/linuxenko/rextract.js.git",
+  "author": {
+    "name": "Svetlana Linuxenko",
+    "email": "linuxenko@yahoo.com",
+    "url": "http://github.com/linuxenko/"
+  },
+  "devDependencies": {
+    "babel-loader": "^6.1.0",
+    "babel-polyfill": "^6.3.14",
+    "babel-preset-es2015": "^6.1.18",
+    "uglify-loader": "^1.3.0",
+    "webpack": "^1.12.6",
+    "webpack-dev-server": "^1.12.1"
+  },
+  "scripts": {
+    "build": "webpack",
+    "start": "webpack-dev-server"
+  },
+  "babel": {
+    "presets": [
+      "es2015"
+    ],
+    "plugins": []
+  },
+  "dependencies": {
+    "hex-and-rgba": "^1.0.0"
+  }
+}
