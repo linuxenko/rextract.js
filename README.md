@@ -4,7 +4,7 @@
 > Usually for sprite creation automation process, and custom sprite editors. 
 
 
-[![](https://raw.githubusercontent.com/linuxenko/rextract.js/master/examples/screenshot.png)](https://raw.githubusercontent.com/linuxenko/rextract.js/master/examples/screenshot.png)
+[![](https://raw.githubusercontent.com/linuxenko/rextract.js/master/examples/screenshot.png)](http://www.linuxenko.pro/showcase/peter/)
 
 ## Usage
 
