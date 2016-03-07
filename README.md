@@ -6,6 +6,8 @@
 
 [![](https://raw.githubusercontent.com/linuxenko/rextract.js/master/examples/screenshot.png)](http://www.linuxenko.pro/showcase/peter/)
 
+Live [demo](http://codepen.io/linuxenko/pen/xVZgmX)
+
 ## Usage
 
 Create rExtractor.
