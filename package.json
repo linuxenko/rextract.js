@@ -1,7 +1,7 @@
 {
   "name": "rextract.js",
   "description": "Rextract JS is an image Region Extraction library. HTML5 based image processing library which helps automatically detect regions of the image to extract.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "http://github.com/linuxenko/rextract.js",
   "license": "MIT",
   "repository": "https://github.com/linuxenko/rextract.js.git",
