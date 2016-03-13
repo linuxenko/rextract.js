@@ -14,9 +14,6 @@ Live [demo](http://codepen.io/linuxenko/pen/xVZgmX)
 [![uSprited](https://raw.githubusercontent.com/linuxenko/usprited/master/app/screen/image/usprited.png)](https://github.com/linuxenko/usprited)
 
 
-## Usage
-
-
 ### Installation
 
 * Using npm
@@ -24,6 +21,18 @@ Live [demo](http://codepen.io/linuxenko/pen/xVZgmX)
 ```
 npm install rextract.js
 ```
+
+* Using cdn
+
+Insert dist/rextract.js or cdn version into html
+
+```
+<script src="rextract/dist/rextract.js"></script>
+or 
+<script src="https://npmcdn.com/rextract.js@0.2.2/dist/rextract.js"></script>
+```
+
+### Usage
 
 Webpack, Browresify
 
@@ -50,9 +59,7 @@ import Rextract from 'rextract.js';
 ```
 
 
-* Using cdn
-
-Insert dist/rextract.js or cdn version into html
+CDN version usage
 
 ```
 var Rex = new Rextract(imageElement, [hexColor])
