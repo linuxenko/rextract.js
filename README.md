@@ -29,7 +29,7 @@ Insert dist/rextract.js or cdn version into html
 ```
 <script src="rextract/dist/rextract.js"></script>
 or 
-<script src="https://npmcdn.com/rextract.js@0.2.2/dist/rextract.js"></script>
+<script src="https://unpkg.com/rextract.js@0.2.2/dist/rextract.js"></script>
 ```
 
 ### Usage
