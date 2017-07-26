@@ -3,6 +3,7 @@
 > Rextract JS is an image Region Extraction library. HTML5 based image processing library which helps automatically detect regions of the image to extract.
 > Usually for sprite creation automation process, and custom sprite editors.
 
+[![Donate](https://img.shields.io/badge/donate-3$-green.svg?style=flat-square)](https://www.linuxenko.pro/donate.html#?amount=3)
 
 [![](https://raw.githubusercontent.com/linuxenko/rextract.js/master/examples/screenshot.png)](http://www.linuxenko.pro/showcase/peter/)
 
